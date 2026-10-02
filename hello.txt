@@ -1,2 +1,3 @@
-Hello Students
-This is my first Git program.
+Hello, Git!
+This is my first Git practical.
+I am learning version control.
